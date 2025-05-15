@@ -1,0 +1,16 @@
+{
+  "token": "",
+  "guildId": "",
+  "welcomeChannel": "",
+  "welcomeMessage": "{member} sunucumuza katıldı! Şu anda {member_count} kişiyiz.\nHesap oluşturulma tarihi: {created_at}\nGüvenlik durumu: {trust_level}",
+  "welcomeRole": "",
+  "rulesChannel": "",
+  "welcomeBanner": "https://cdn.discordapp.com/attachments/1365595199115497473/1365611016204845076/b627f1b16dc40ad2be53cb1d8789aa4f.jpg?ex=680defde&is=680c9e5e&hm=15cf20fa7706cbb5fcc577c907c4d973fd5e9cb855aa47b503558e14f7372388&",
+  "emojis": {
+    "star": "",
+    "hi": "",
+    "arrow": "",
+    "verify": ""
+  },
+  "logChannel": ""
+}

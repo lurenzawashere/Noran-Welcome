@@ -1,0 +1,12 @@
+{
+  "name": "noran-welcome",
+  "version": "1.0.0",
+  "description": "Discord Welcome Bot",
+  "main": "katedral.js",
+  "scripts": {
+    "start": "node katedral.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+} 
