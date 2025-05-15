@@ -35,7 +35,3 @@ Amacım, GitHub hesabımı aktif tutmak ve öğrendiklerimi belgelemek.
 İleride bu projeler üzerinden daha fazlasını öğrenmek ve gelişmek istiyorum.
 
 Katkılarınız, yorumlarınız veya önerileriniz olursa seve seve dinlerim. 🙏
-
-Bu metin hem samimi hem de dürüst. Ne yaptığını, nasıl yaptığını açıkça söylüyor. Ayrıca bu tarz açıklamalar insanlara "Bu çocuk öğrenmeye açık" izlenimi verir — bu da GitHub’da çok değerli bir şey.
-
-İstersen senin projelerine özel uyarlayabilirim bunu. Projenin neyle ilgili olduğunu söylersen ona göre yazıyı netleştiririz. Hazırsan dalalım!
