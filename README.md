@@ -35,4 +35,5 @@ Amacım, GitHub hesabımı aktif tutmak ve öğrendiklerimi belgelemek.
 İleride bu projeler üzerinden daha fazlasını öğrenmek ve gelişmek istiyorum.
 
 Katkılarınız, yorumlarınız veya önerileriniz olursa seve seve dinlerim. 🙏
-![Noran Welcome Banner](./Noran-Welcome/welcome.png)
+![Noran Welcome Banner](./welcome.png)
+Noran Welcome/welcome.png
