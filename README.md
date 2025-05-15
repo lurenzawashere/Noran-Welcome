@@ -28,6 +28,7 @@
 🎭 **Otomatik Rol Verme**  
 • Yeni gelen üyelere otomatik rol  
 • Tamamen özelleştirilebilir yapı
+![Noran Welcome Banner](./welcome.png)
 
 🤖 Proje Hakkında
 Bu proje, kişisel olarak deneme amaçlı hazırlanmış bir altyapıdır. Bot geliştirme konusunda uzman değilim, ancak yapay zeka (ChatGPT gibi araçlar) yardımıyla bazı temel yapılar oluşturmaya çalıştım.
@@ -35,5 +36,3 @@ Amacım, GitHub hesabımı aktif tutmak ve öğrendiklerimi belgelemek.
 İleride bu projeler üzerinden daha fazlasını öğrenmek ve gelişmek istiyorum.
 
 Katkılarınız, yorumlarınız veya önerileriniz olursa seve seve dinlerim. 🙏
-![Noran Welcome Banner](./welcome.png)
-Noran Welcome/welcome.png
